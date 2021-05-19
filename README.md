@@ -1,2 +1,2 @@
-- Hi, I’m @shaleeng (Shaleen Goel). I am currently an Associate Consultant at Bain and am a beginner teaching myself coding! 
+- Hi, I’m @shaleeng (Shaleen Goel). I am currently an Associate Consultant at Bain and a beginner teaching my to code! 
 - Check out my particle fire explosion & smartbrain projects!
